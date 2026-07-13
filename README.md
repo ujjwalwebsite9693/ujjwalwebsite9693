@@ -67,7 +67,7 @@ CS student & full-stack developer from Bihar, India — **2+ years** building we
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=ujjwalwebsite9693 &show_icons=true&theme=tokyonight&hide_border=true" /></td>
-<td><img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&hide_border=true" /></td>
+<td><img src="https://streak-stats.demolab.com/?user=ujjwalwebsite9693&theme=tokyonight&hide_border=true" /></td>
 </tr>
 </table>
 
